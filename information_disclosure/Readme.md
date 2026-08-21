@@ -22,15 +22,15 @@ The credentials are accessible by simply downloading and opening the SQL file, w
 
 2. Click on drug_recommender.sql
    
-![POC](images/sql%20file%202.png)
+![POC](images/sql%20file%201.png)
 
 3. Open drug_recommendor.sql in VS Code or any text editor.
    
-![POC](images/sql%20file%203.png)
+![POC](images/sql%20file%202.png)
 
 4. Credential information can be observed directly in the SQL dump.
 
-![POC](images/sql%20file%204.png)
+![POC](images/sql%20file%203.png)
 
 **Impact**
 
