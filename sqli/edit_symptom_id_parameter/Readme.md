@@ -57,7 +57,7 @@ A03:2021 – Injection
 
 **Vulnerable Endpoint**
 
-GET /
+GET /drug_recommender/Admin/edit_symptom.php
 
 **Vulnerable Parameter**
 
@@ -68,7 +68,7 @@ Id
 In the below POC as we can see the user is not logged in 
 ![POC](images/Not_logged_in.png)
 
-1.	Go to /drug_recommender/edit_symptom.php endpoint the project allows direct access to this endpoint 
+1.	Go to /drug_recommender/Admin/edit_symptom.php endpoint the project allows direct access to this endpoint 
 
 ![POC](images/normal_req_1.png)
 
