@@ -6,6 +6,8 @@
 
 **Researchers:** Karan Parelkar, Anubhav Verma, Parth Desai
 
+**Source / Vendor** https://www.sourcecodester.com/php/18278/drug-recommender-web-app-student-project.html
+
 **Summary**
 
 During security testing of the open-source Drug Recommendor project, plaintext credentials were found in the publicly distributed database file:
