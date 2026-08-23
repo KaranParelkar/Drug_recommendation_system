@@ -6,7 +6,7 @@
 
 **Researchers:** Karan Parelkar, Anubhav Verma, Parth Desai
 
-**Source / Vendor** https://www.sourcecodester.com/php/18278/drug-recommender-web-app-student-project.html
+**Source / Vendor:** (Sourcecodester's Drug Recommendation System Using Machine Learning, PHP, and MySQL Database ) https://www.sourcecodester.com/php/18278/drug-recommender-web-app-student-project.html
 
 **Summary**
 
