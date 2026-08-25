@@ -76,6 +76,18 @@ The payload not only gets reflected but also stored in the database as if we got
 
 ![POC](images/stored_xss_2.png)
 
+![POC](images/stored_xss_3.png)
+
+![POC](images/stored_xss_4.png)
+
+![POC](images/stored_xss_5.png)
+
+![POC](images/stored_xss_6.png)
+
+![POC](images/stored_xss_7.png)
+
+![POC](images/stored_xss_8.png)
+
 
 **Impact**
 
