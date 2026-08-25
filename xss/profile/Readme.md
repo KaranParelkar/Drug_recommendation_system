@@ -92,23 +92,35 @@ Where applicable, a Content Security Policy (CSP) should also be implemented to 
 **Researcher 1**
 
 Name: Karan Parelkar
+
 Role: Independent Security Researcher
+
 Email: karan.parelkar2005@gmail.com
+
 GitHub: https://github.com/KaranParelkar
+
 LinkedIn: https://www.linkedin.com/in/karan-parelkar-6a370125b/
 
 **Researcher 2**
 
 Name: Anubhav Verma
+
 Role: Independent Security Researcher
+
 Email: avdzav10@gmail.com
+
 GitHub: https://github.com/anubhavv106
+
 LinkedIn: https://www.linkedin.com/in/anubhav-verma-7123a1232/
 
 **Researcher 3**
 
 Name: Parth Desai
+
 Role: Independent Security Researcher
+
 Email: ppdesai3@asu.edu
+
 GitHub: https://github.com/ParthD31
+
 LinkedIn: https://www.linkedin.com/in/parth-desai-801951224/
