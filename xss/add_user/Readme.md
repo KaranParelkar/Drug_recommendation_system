@@ -54,7 +54,7 @@ Burp Suite confirms the raw parameters being reflected verbatim into the respons
 
 ![POC](images/xss_5_email.png)
 
-![POC](images/stored_xss_email.png)
+![POC](images/xss_reflected_email.png)
 
 **2. txtpassword**
 
