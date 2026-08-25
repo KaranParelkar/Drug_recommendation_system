@@ -52,7 +52,7 @@ The application stores the supplied username in the database without sufficient 
  
 The stored username is rendered on the dashboard.
 
- ![POC](images/stored_xss_3.png)
+ ![POC](images/stored_xss_5.png)
 
 The vulnerability can be verified by observing that the payload executes on /drug_recommender/index.php without requiring the payload to be submitted again.
 
