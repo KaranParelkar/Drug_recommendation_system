@@ -34,7 +34,7 @@ Repeat with Test@123"><script>alert(document.cookie)</script> — the session co
 
 ![POC](images/xss_5_change_password.png)
 
-![POC](images/xss_6_name.png)
+![POC](images/xss_6_change_password.png)
 
 Burp Suite confirms the raw parameters being reflected verbatim into the response HTML, breaking out of the input value attributes.
 
