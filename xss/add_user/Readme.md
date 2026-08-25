@@ -40,6 +40,36 @@ Repeat with Test"><script>alert(document.cookie)</script> — the session cookie
 
 Burp Suite confirms the raw parameters being reflected verbatim into the response HTML, breaking out of the input value attributes.
 
+**Same works for the other 2 parameters i.e. txtemail and txtpassword as shown in the below POCs**
+
+**1. txtemail**
+
+![POC](images/xss_1_email.png)
+
+![POC](images/xss_2_email.png)
+
+![POC](images/xss_3_email.png)
+
+![POC](images/xss_4_email.png)
+
+![POC](images/xss_5_email.png)
+
+![POC](images/stored_xss_email.png)
+
+**2. txtpassword**
+
+![POC](images/xss_1_password.png)
+
+![POC](images/xss_2_password.png)
+
+![POC](images/xss_3_password.png)
+
+![POC](images/xss_4_password.png)
+
+![POC](images/xss_5_password.png)
+
+![POC](images/txt_reflected_password.png)
+
 The payload not only gets reflected but also stored in the database as if we goto the /drug_recommender/Admin/user_record the document.cookie payload gets executed result in the alert on the screen.
 
 ![POC](images/stored_xss_1.png)
