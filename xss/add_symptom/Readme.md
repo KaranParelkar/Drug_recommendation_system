@@ -6,6 +6,8 @@
 
 **Researchers:** Karan Parelkar, Anubhav Verma, Parth Desai
 
+**Accepted: CVE-2026-94016**
+
 **Source / Vendor:** (Sourcecodester's Drug Recommendation System Using Machine Learning, PHP, and MySQL Database) https://www.sourcecodester.com/php/18278/drug-recommender-web-app-student-project.html
 
 **Summary**
