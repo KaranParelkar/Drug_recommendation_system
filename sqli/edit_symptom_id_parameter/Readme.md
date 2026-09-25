@@ -4,6 +4,8 @@
 
 **Disclosure Type:** Responsible Disclosure
 
+**Accepted: CVE-2026-93997**
+
 **Researchers:** Karan Parelkar, Anubhav Verma and Parth Desai
 
 **Executive Summary:**
