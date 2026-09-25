@@ -2,6 +2,8 @@
 
 **Severity:** Critical
 
+**Accepted: CVE-2026-94015**
+
 **Disclosure Type:** Responsible Disclosure
 
 **Researchers:** Karan Parelkar, Anubhav Verma and Parth Desai
