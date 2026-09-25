@@ -2,6 +2,8 @@
 
 **Severity:** High
 
+**Accepted: CVE-2026-92927**
+
 **CWE:** CWE-200 – Exposure of Sensitive Information to an Unauthorized Actor
 
 **Researchers:** Karan Parelkar, Anubhav Verma, Parth Desai
